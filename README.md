@@ -8,3 +8,5 @@ test
 - 소스 컨트롤에서 commit 저장하기 (-> add + commit)
 - index.html 추가
 - visual studio code로 수정 후 commit 후 깃허브로 올림
+
+* 리드미 수정 네이버 블로그 sql 공부
